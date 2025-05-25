@@ -14,6 +14,8 @@ A complete Vue starter template with TypeScript
 
 If you don't need an optional feature, you can just delete it or keep it for later.
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/wODTj4?referralCode=AkTUld)
+
 ## How to use
 
 ```sh
